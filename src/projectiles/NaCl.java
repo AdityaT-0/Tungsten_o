@@ -1,4 +1,4 @@
-package yourMuan;
+package projectiles;
 
 public class NaCl {
 
