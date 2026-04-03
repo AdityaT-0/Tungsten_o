@@ -35,6 +35,7 @@ public class Calc {
 					sum = input1 + input2;
 					System.out.println("Your answer is....");
 					System.out.println(sum);
+					System.out.println("");
 					break;
 					
 				case 2:
@@ -47,6 +48,7 @@ public class Calc {
 					sum = input1 - input2;
 					System.out.println("Your answer is....");
 					System.out.println(sum);
+					System.out.println("");
 					break;
 				
 				case 3:
@@ -59,6 +61,7 @@ public class Calc {
 					sum = input1 * input2;
 					System.out.println("Your answer is....");
 					System.out.println(sum);
+					System.out.println("");
 					break;
 					
 				case 4:
@@ -75,6 +78,7 @@ public class Calc {
 					sum = newInput / newInput2;
 					System.out.println("Your answer is....");
 					System.out.println(sum);
+					System.out.println("");
 					break;
 					
 				case 5:
