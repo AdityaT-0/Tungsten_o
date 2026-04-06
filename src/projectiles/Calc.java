@@ -6,7 +6,7 @@ public class Calc {
 	//Code starts here	
 		
 		
-		//VAriables
+		//Variables
 		Scanner sc = new Scanner(System.in);
 		int exit = 0;
 		int input1 = 0;
